@@ -1,4 +1,4 @@
-Musical Advent Calendar 🎄🎵
+#Musical Advent Calendar 🎄🎵
 
 A React-based interactive Advent Calendar that unlocks a curated Spotify song for every day of December. The application features a "Midnight Christmas" aesthetic with glassmorphism effects, snow animations, and persistent unlock logic.
 
